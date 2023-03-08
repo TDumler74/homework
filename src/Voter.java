@@ -1,4 +1,5 @@
 
+
 public class Voter {
 
     private String name;
