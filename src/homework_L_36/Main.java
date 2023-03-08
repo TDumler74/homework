@@ -1,6 +1,7 @@
 package homework_L_36;
 
 public class Main {
+
     public static void main(String[] args) {
         Voter person1= new Voter("John", "Berlin",21);
         System.out.println(person1.getName()+" "+person1.getAddress()+" "+person1.getAge());
