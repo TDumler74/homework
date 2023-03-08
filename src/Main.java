@@ -1,3 +1,4 @@
+
 public class Main {
     public static void main(String[] args) {
         Voter person1= new Voter("John", "Berlin",21);
